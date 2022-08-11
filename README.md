@@ -1,5 +1,5 @@
 - 👋 Hi, I’m aldo
-- 👀 I’m interested in Web technologies and Machine learning
+- 👀 I’m interested on Web technologies and Machine learning
 - 🌱 I’m currently learning flutter
 - 💞️ I’m looking to collaborate on many projects
 
